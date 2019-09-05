@@ -1,0 +1,1 @@
+NIQE for grayscale images
